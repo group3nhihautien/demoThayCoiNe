@@ -41,19 +41,6 @@ h1 {
   text-align: center;
 }
 
-#myh12 {
-    color: rgb(11, 204, 69);
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-table, th, td {
-    border: 1px solid rgb(12, 62, 136);
-    text-align: center;
-  }
 
 img {
     width: 200px;
